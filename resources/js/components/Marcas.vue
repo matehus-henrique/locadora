@@ -4,7 +4,7 @@
             <div class="col-md-8">
                 
                 
-                <!-- início do card de busca -->
+                <!-- início do card de busca!! -->
                 <card-component titulo="Busca de marcas">
                     <template v-slot:conteudo>
                         <div class="form-row">
