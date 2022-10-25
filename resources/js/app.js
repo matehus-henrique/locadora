@@ -26,7 +26,7 @@ Vue.component('marcas-component', require('./components/Marcas.vue').default);
 Vue.component('input-container-component', require('./components/InputContainer.vue').default);
 Vue.component('table-component', require('./components/Table.vue').default);
 Vue.component('card-component', require('./components/Card.vue').default);
-Vue.component('model-component', require('./components/Model.vue').default);
+Vue.component('modal-component', require('./components/Modal.vue').default);
 
 
 /**
