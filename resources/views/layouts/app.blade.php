@@ -53,7 +53,7 @@
                        @endauth
                     </ul>
 
-                    <!-- Right Side Of Navbar -->
+                    <!-- Right Side Of Navbar d -->
                     <ul class="navbar-nav ml-auto">
                         <!-- Authentication Links -->
                         @guest
